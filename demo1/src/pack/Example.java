@@ -6,6 +6,7 @@ public class Example {
 		// TODO Auto-generated method stub
        System.out.println("Welcome to gprec");
        System.out.println("Welcome to CSE");
+	System.out.println("WElcome to class");
 	}
 
 }
